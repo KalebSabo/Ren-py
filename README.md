@@ -3,4 +3,4 @@ BUT it should still be workable code AND it will have all my notes/comments to s
 what you think!
 
 script.rpy is just a label jump to the meat and potatoes of the program \n
-events.rpy is a combat prototype, it is a bit ugly as most of it is not as organized as I would have hoped it to be, lessons learned
+events.rpy is a combat prototype, I have already rewritten it to be better focused in particular areas of the program which will come out in a later post. 
